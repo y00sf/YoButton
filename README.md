@@ -17,13 +17,13 @@ A sleek alternative to Unity buttons with built-in effects and theming.
 3. **Customize** the button through the Inspector:
    - **Graphic Target**: Assign the target image for visual updates.  
      *Leave empty to use the object's default graphic.*
-![Settings](https://github.com/user-attachments/assets/c8b79911-52ea-4384-8c53-a3303735143d)
+- ![Settings](https://github.com/user-attachments/assets/c8b79911-52ea-4384-8c53-a3303735143d)
 
    - **Theme Type**:
      - `Default`: Uses the standard built-in style.
      - `Manager Feed`: (Coming soon)
      - `Custom`: Assign a custom `ThemeData` ScriptableObject.
-![Theme](https://github.com/user-attachments/assets/dbdb1984-c7c7-49e6-88e1-4a25fd57f59c)
+- ![Theme](https://github.com/user-attachments/assets/dbdb1984-c7c7-49e6-88e1-4a25fd57f59c)
 
    - **Add Effects** for each interaction:
      - **Hover Effect**: Triggered on pointer enter.
